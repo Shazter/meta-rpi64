@@ -1,1 +1,1 @@
-# yocto-rpi
+# meta-rpi64
